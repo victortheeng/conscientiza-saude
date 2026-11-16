@@ -54,6 +54,3 @@ Este é um projeto educativo, não clínico. Não realiza diagnóstico, não pre
 - [INCA — Câncer de próstata](https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/prostata)
 - [Ministério da Saúde — Câncer de mama](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/cancer-de-mama)
 - [Ministério da Saúde — Saúde do homem](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-do-homem)
-
-## Autoria e uso de IA
-Projeto individual. O OpenCode deve ser utilizado pelo estudante durante o desenvolvimento, com registro verdadeiro dos prompts, alterações, testes e correções. Consulte `docs/evidencias-opencode.md`. Não declare como realizada uma atividade que não foi executada.
